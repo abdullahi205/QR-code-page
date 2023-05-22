@@ -28,8 +28,8 @@ this simple qr code displaying in at certain shown design section
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/abdullahi205/QR-code-page
+- Live Site URL: https://abdullahi205.github.io/QR-code-page/
 
 ## My process
 
